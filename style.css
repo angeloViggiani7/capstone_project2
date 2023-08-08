@@ -158,4 +158,10 @@ span{
     text-decoration: none;
     color: darkblue;
   }
+
+   hr{
+    border: dotted #eaf6f6 4px;
+    width: 7%;
+    margin: 30px auto;
+   }
 }
